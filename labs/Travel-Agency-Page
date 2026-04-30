@@ -1,0 +1,53 @@
+CTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Explore world-class travel destinations, from the historic Colosseum to the serene Alps.">
+    <title>Travel Agency Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Global Explorations</h1>
+        <p>Embark on the journey of a lifetime. From historic ruins to serene coastlines, your next adventure starts here.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Packages</h2>
+            <p>Choose the travel style that fits your rhythm.</p>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+                <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+            </ul>
+            <!-- Test Fix: h2 element immediately after the unordered list -->
+            <h2>Top Itineraries</h2>
+        </section>
+
+        <section>
+            <figure>
+                <a href="https://www.freecodecamp.org/learn" target="_blank">
+                    <img src="https://freecodecamp.org" alt="The Colosseum in Rome">
+                </a>
+                <figcaption>Experience the ancient grandeur of Rome.</figcaption>
+            </figure>
+
+            <figure>
+                <a href="https://www.freecodecamp.org/learn" target="_blank">
+                    <img src="https://freecodecamp.org" alt="Snow-capped Alps">
+                </a>
+                <figcaption>Breathe in the crisp air of the Alpine peaks.</figcaption>
+            </figure>
+
+            <figure>
+                <a href="https://www.freecodecamp.org/learn" target="_blank">
+                    <img src="https://freecodecamp.org" alt="Tropical beach">
+                </a>
+                <figcaption>Relax by the tranquil turquoise waters.</figcaption>
+            </figure>
+        </section>
+    </main>
+</body>
+</html>
+
+1
