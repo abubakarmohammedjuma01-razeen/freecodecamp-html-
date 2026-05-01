@@ -1,0 +1,34 @@
+CTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+  <main>
+        <h1>Rise Beyond 2</h1>
+
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/rise-beyond-2.png" alt="A cinematic movie cover showing a lone explorer overlooking a futuristic mountain range at sunset">
+
+        <p>In a world where boundaries are a relic of the past, one hero must navigate the treacherous heights of the Neo-Alps to secure humanity's future. A gripping tale of resilience, technology, and the spirit of discovery.</p>
+
+        <p class="rating-box">
+            <strong>Movie Rating:</strong>
+            <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+            (9.2/10)
+        </p>
+
+        <h2>Cast Members</h2>
+        <ul>
+            <li><strong>James Holloway</strong> as Ethan Carter</li>
+            <li><strong>Sarah Jenkins</strong> as Dr. Elena Vance</li>
+            <li><strong>Marcus Thorne</strong> as Commander Kael</li>
+            <li><strong>Aria Song</strong> as Lyra the Navigator</li>
+        </ul>
+    </main>
+</body>
+
+</html>
+1

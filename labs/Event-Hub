@@ -1,0 +1,50 @@
+CTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Tech Innovation Summit</h3>
+                <p>Join industry leaders as they discuss the future of AI and sustainable technology. Date: June 15, 2024.</p>
+            </article>
+            <article>
+                <h3>Summer Jazz Festival</h3>
+                <p>An evening of smooth melodies and local food vendors at the city park. Date: July 22, 2024.</p>
+            </article>
+        </section>
+
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Annual Charity Gala</h3>
+                <p>We successfully raised over $50,000 for local youth programs last winter. Date: December 10, 2023.</p>
+                <img src="https://freecodecamp.org" alt="A group of people in formal attire celebrating at a gala">
+            </article>
+            <article>
+                <h3>Community Garden Workshop</h3>
+                <p>Dozens of neighbors gathered to learn about urban composting and seed starting. Date: March 05, 2024.</p>
+                <img src="https://freecodecamp.org" alt="Volunteers planting new seedlings in a community garden plot">
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
+1
